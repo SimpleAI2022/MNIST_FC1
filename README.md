@@ -16,7 +16,17 @@ In this repository a 2-layer Fully Connected Neural Network model is developed f
 * torchvision
 
 ### relevant tutorials
-The repository corresponds to the following playlist[https://youtube.com/playlist?list=PLhFg2q8pZdMR8jSb8RU7krR78y_pGpdzs]  in **SimpleAI's Youtube channel**:
+The repository corresponds to the following playlist in **SimpleAI's Youtube channel**:
+
 https://youtube.com/playlist?list=PLhFg2q8pZdMR8jSb8RU7krR78y_pGpdzs
+
+***Please consider subscribing to our channel and liking our playlist if you are interested in more simple-to-implement but professional tutorials on DeepLearning and Computer Vision***
+
+### Social media links
+You can stay up-to-date with our videos and quickly get notified on our newest tutorials by following us on any of the following social media platforms (***if you want to support SimpleAI, however, you could follow us on all the platforms noted below***):
+
+* Instagram: https://www.instagram.com/simpleai2022
+* Facebook:
+* TikTok:
 
 
